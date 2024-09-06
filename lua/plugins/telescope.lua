@@ -5,6 +5,7 @@ return {
 	      { "<leader>f", "<cmd>Telescope find_file<cr>", desc = "find file"},
 	      { "<leader>t", "<cmd>Telescope live_grep<cr>", desc = "find text"},
 	      { "<leader>b", "<cmd>Telescope buffers<cr>", desc = "find buffers"},
-	      { "<leader>r", "<cmd>Telescope oldfiles<cr>", desc = "Recent"}
+	      { "<leader>r", "<cmd>Telescope oldfiles<cr>", desc = "Recent"},
+	      { "<leader>k", "<cmd>Telescope keymaps<cr>", desc = "keymaps"}
       }
     }
