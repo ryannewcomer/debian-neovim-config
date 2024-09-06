@@ -4,7 +4,7 @@ return {
     priority = 1000,
     config = function()
         require 'nordic' .load({
-		transparent_bg = true
+		transparent_bg = false
 	}
 	)
     end
