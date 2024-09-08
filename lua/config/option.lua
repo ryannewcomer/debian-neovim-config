@@ -6,3 +6,4 @@ vim.g.loaded_newtrwPlugin = 1
 
 vim.opt.relativenumber = true
 vim.opt.smartcase = true
+vim.opt.termguicolors = true
